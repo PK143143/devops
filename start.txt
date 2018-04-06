@@ -1,2 +1,2 @@
 test devops quick start demo
-hi this is praveen completed demo on devops
+hi this is praveen completed demo on devops and aws
