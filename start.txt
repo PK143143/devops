@@ -1,2 +1,3 @@
 test devops quick start demo
-hi this is praveen completed demo on devops and linux
+hi this is praveen completed demo on devops and aws
+day 1 scrum
