@@ -1,3 +1,7 @@
 test devops quick start demo
 hi this is praveen completed demo on devops and aws
+<<<<<<< HEAD
 day 1 scrum
+=======
+day 1 agile
+>>>>>>> 191def12a1704725f1fa9ed71637e62dec04caf2
